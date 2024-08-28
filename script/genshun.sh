@@ -5,4 +5,4 @@ device_config delete game_overlay com.miHoYo.GenshinImpact
 
 cmd package compile -m verify -f com.miHoYo.GenshinImpact
 
-# this script
+# uninstall the script
