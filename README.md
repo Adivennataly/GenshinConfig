@@ -29,6 +29,8 @@ This is just a configuration file that must be changed and replaced manually in 
 
 If you want to disable it, just delete the file or replace it with a backup of the default file.
 
+
+Next step:
 Download the script and use terminal (ADB/LADB/Termux) to run the script (no root access required) :
 
     sh /storage/emulated/0/Download/genshin.sh
