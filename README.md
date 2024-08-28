@@ -1,7 +1,7 @@
 ## Genshin Impact Config
-enable Vulkan support and maximize performance tuning.
+enable Vulkan support and optimize performance tuning.
 
-Recommendation to use "DebugSurfaceFlinger" script for better experience :
+Recommendation to use "DebugSurfaceFlinger" for better experience :
 https://github.com/Adivennataly/DebugSurfaceFlinger
 
 ## Requirement
