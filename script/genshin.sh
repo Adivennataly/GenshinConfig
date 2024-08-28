@@ -10,4 +10,4 @@ sleep 1
 
 cmd package compile -m speed -f com.miHoYo.GenshinImpact
 
-# this script
+# this script for Genshin Impact
