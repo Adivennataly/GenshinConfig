@@ -7,7 +7,7 @@ https://github.com/Adivennataly/DebugSurfaceFlinger
 ## Requirement
 This is just a configuration file that must be changed and replaced manually in the directory :
 
-    /storage/emulated/0/Android/data/com.miHoYo.GenshinImpact/files/
+    /storage/emulated/0/Android/data/com.miHoYo.GenshinImpact/files/hardware_model_config.json
 
 - first, you must change the values in the file :
 
